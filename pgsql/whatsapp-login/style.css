@@ -64,3 +64,9 @@ form button {
 form button:hover {
   background-color: #128c7e;
 }
+
+#message {
+  margin-top: 10px;
+  text-align: center;
+  font-weight: bold;
+}
